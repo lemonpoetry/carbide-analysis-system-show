@@ -7,7 +7,8 @@
 由于本项目属于实验室横向课题，可展示图像分割效果但不提供源码，如果需要课题合作可以联系。2907098302@qq.com
 
 下面这张图是另外一种碳化钨图像，该图晶粒之间边界不清晰，使用传统方法时难以实现分割但是利用本项目中的深度学习模型可以达到很好的分割效果
-![llama3模型使用](https://github.com/user-attachments/assets/ea781289-a3ef-48df-89fa-0ac02ae2819a)
+![分割例子](https://github.com/user-attachments/assets/b8e9dac2-b19a-424b-9f4e-46557f851a5a)
+
 
 1.该图属于硬质合金碳化钨晶粒图像中的一种，想要对该图粘连晶粒实现分割方法很多，但是在这张图中，具有代表性的是晶粒的表面含有大量的划痕会在双阈值分割或者RGB分割中会起到很大的影响
 ![晶相原图](https://github.com/user-attachments/assets/d305e745-0522-4a99-b6bd-925831d6e0c8)
